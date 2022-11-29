@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "DimasBotz" //namabot kalian
-global.ownername= "𝐃𝐈𝐌𝐀𝐒 𝐓𝐎𝐊𝐈𝐒𝐀𝐊𝐈" //nama kalian
+global.botname = "🍁вℓα¢к ѕувєя ѕтαƒαη/ѕυкι🍁" //namabot kalian
+global.ownername= "🌾ѕυкι/ѕтαƒαη🌾" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
 global.email = "leviadnansyahlevi@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.region = "SRI LANKA" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6283169648444'] //premium user
-global.owner = ["6283169648444","6283169648444"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6283169648444" // nomor wa kalian
-global.ownernomerr = "6283169648444" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.premium = ['94770378874'] //premium user
+global.owner = ["94768440031","94770378874"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94770378874" // nomor wa kalian
+global.ownernomerr = "94770378874" //nmr wa kalian
+global.thumbnail = "./https://telegra.ph/file/c71f303559321833e7ac5.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./https://telegra.ph/file/c71f303559321833e7ac5.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© DimasBotz' //sticker wm ubah
-global.author = 'Di Buat Oleh 𝐃𝐈𝐌𝐀𝐒 𝐓𝐎𝐊𝐈𝐒𝐀𝐊𝐈' //sticker wm ganti nama kalian
+global.packname = '© ѕтαƒαη м∂' //sticker wm ubah
+global.author = 'Di Buat Oleh ѕтαƒαη/ѕυкι' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
